@@ -1,0 +1,2 @@
+# hw_game_mp_sdk_ironsource_ios
+hw_game_mp_sdk_ironsource_ios
