@@ -4,7 +4,7 @@
 
 ## 下载地址
 
-SDK 下载地址：[v10.0.0](https://github.com/artwl/hwsdk_ios/releases)
+SDK 下载地址：[v10.0.0](https://github.com/artwl/hw_game_mp_sdk_ironsource_ios/releases)
 
 
 ## 接入文档
