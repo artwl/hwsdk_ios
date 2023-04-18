@@ -1,10 +1,10 @@
 # HWISSDK iOS 
 
-本文档是iOS版变现SDK，当前版本 `V10.2.6`
+本文档是iOS版变现SDK，当前版本 `V10.2.9`
 
 ## 下载地址
 
-SDK 下载地址：[v10.2.6](https://github.com/artwl/hw_game_mp_sdk_ironsource_ios/releases)
+SDK 下载地址：[v10.2.9](https://github.com/artwl/hw_game_mp_sdk_ironsource_ios/releases)
 
 
 ## 接入文档
@@ -15,10 +15,15 @@ SDK 下载地址：[v10.2.6](https://github.com/artwl/hw_game_mp_sdk_ironsource_
 
 请先查看接入文档和常见问题，还有问题可联系对接人寻求技术支持
 
-## 本版特性 (10.2.6 - 2023年2月)
+## 本版特性 (10.2.9 - 2023年4月)
 
 详细内容请查看更新记录，有完整的更新内容列表。
 
+- **10.2.9 新特性（2023年4月18号）**
+  - 1.更新第三方库版本
+  - 2.实施支持AdInfo回调的新LevelPlay侦听器
+  - 3.添加Ad Quality
+  
 - **10.2.6 新特性（2023年2月01号）**
   - 1.更新第三方库版本
   - 2.内购打点需要传入本地化金额和单位
