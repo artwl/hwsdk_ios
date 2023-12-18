@@ -1,10 +1,10 @@
 # HWISSDK iOS 
 
-本文档是iOS版变现SDK，当前版本 `V10.2.53`
+本文档是iOS版变现SDK，当前版本 `V10.2.56`
 
 ## 下载地址
 
-SDK 下载地址：[v10.2.53](https://github.com/artwl/hw_game_mp_sdk_ironsource_ios/releases)
+SDK 下载地址：[v10.2.56](https://github.com/artwl/hw_game_mp_sdk_ironsource_ios/releases)
 
 
 ## 接入文档
@@ -15,9 +15,14 @@ SDK 下载地址：[v10.2.53](https://github.com/artwl/hw_game_mp_sdk_ironsource
 
 请先查看接入文档和常见问题，还有问题可联系对接人寻求技术支持
 
-## 本版特性 (10.2.53 - 2023年10月)
+## 本版特性 (10.2.56 - 2023年12月)
 
 详细内容请查看更新记录，有完整的更新内容列表。
+
+- **10.2.56 新特性（2023年12月18号）**
+  - 1.更新第三方库版本
+  - 2.新增数数关联adjust的接口
+  - 3.添加对重复初始化的过滤
 
 - **10.2.53 新特性（2023年10月23号）**
   - 1.初始化接口添加是否开启AB测试参数
