@@ -1,10 +1,10 @@
 # HWISSDK iOS 
 
-本文档是iOS版变现SDK，当前版本 `V10.2.66`
+本文档是iOS版变现SDK，当前版本 `V10.2.70`
 
 ## 下载地址
 
-SDK 下载地址：[v10.2.66](https://github.com/artwl/hw_game_mp_sdk_ironsource_ios/releases)
+SDK 下载地址：[v10.2.70](https://github.com/artwl/hw_game_mp_sdk_ironsource_ios/releases)
 
 
 ## 接入文档
@@ -15,10 +15,14 @@ SDK 下载地址：[v10.2.66](https://github.com/artwl/hw_game_mp_sdk_ironsource
 
 请先查看接入文档和常见问题，还有问题可联系对接人寻求技术支持
 
-## 本版特性 (10.2.66 - 2024年3月)
+## 本版特性 (10.2.70 - 2024年4月)
 
 详细内容请查看更新记录，有完整的更新内容列表。
 
+- **10.2.70 新特性（2024年4月29号）**
+  - 1.更新第三方库版本
+  - 2.增加对苹果隐私政策的支持
+    
 - **10.2.66 新特性（2024年3月27号）**
   - 1.更新第三方库版本
   - 2.增加对苹果隐私清单更新的支持
