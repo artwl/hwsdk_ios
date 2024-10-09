@@ -1,10 +1,10 @@
 # HWISSDK iOS 
 
-本文档是iOS版变现SDK，当前版本 `V10.2.75`
+本文档是iOS版变现SDK，当前版本 `V10.2.78`
 
 ## 下载地址
 
-SDK 下载地址：[v10.2.75](https://github.com/artwl/hw_game_mp_sdk_ironsource_ios/releases)
+SDK 下载地址：[v10.2.78](https://github.com/artwl/hw_game_mp_sdk_ironsource_ios/releases)
 
 
 ## 接入文档
@@ -15,10 +15,13 @@ SDK 下载地址：[v10.2.75](https://github.com/artwl/hw_game_mp_sdk_ironsource
 
 请先查看接入文档和常见问题，还有问题可联系对接人寻求技术支持
 
-## 本版特性 (10.2.75 - 2024年8月)
+## 本版特性 (10.2.78 - 2024年10月)
 
 详细内容请查看更新记录，有完整的更新内容列表。
 
+- **10.2.78 新特性（2024年10月9号）**
+  - 1.更新第三方库版本
+    
 - **10.2.75 新特性（2024年8月26号）**
   - 1.更新第三方库版本
   - 2.修复moloco关闭广告的问题
