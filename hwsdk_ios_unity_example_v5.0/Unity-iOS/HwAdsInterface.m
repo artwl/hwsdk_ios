@@ -101,11 +101,11 @@ void getCountryCode(){
 }
 
 
-void initHwSDK(int serverURL){
+void initHwSDK(int serverURL, BOOL isFirebase, BOOL isABTestOpen){
 
     HwAdsInterface* hwAdsInterface = [HwAdsInterface sharedInstance];
-    //新版本只需要传一个参数
-    [[HwAds instance] initSDK:serverURL];
+    //初始化SDK
+    [[HwAds instance] initSDK:serverURL isFirebase:isFirebase isABTestOpen:isABTestOpen];
     //关联回调的代码
     HwAds* hwads = [HwAds instance];
     hwads.hwAdsDelegate = hwAdsInterface;

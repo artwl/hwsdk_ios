@@ -7,7 +7,8 @@ using System.Runtime.InteropServices;
 public class HwAdsInterface
 {
     [DllImport("__Internal")]
-    private static extern void initHwSDK(int serverURL);
+    private static extern void initHwSDK(int serverURL, bool isFirebase, bool isABTestOpen);
+
 //关于banner
     [DllImport("__Internal")]
 private static extern void showHwBannerAd();
@@ -53,8 +54,7 @@ private static extern void hideHwBannerAd();
         GameObject.DontDestroyOnLoad(hwAdsCallBack);
         hwAdsCallBack.AddComponent<HwAdsCallBack>();
         Debug.Log("unity InitSdk");
-        initHwSDK(serverURL);
-
+        initHwSDK(serverURL, true, true); 
     }
 
 //关于banner
